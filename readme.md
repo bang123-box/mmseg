@@ -17,10 +17,10 @@
 ## 模型验证
 在这一部分将分为4块进行验证：
 1. 单张照片结果展示
-   ![](result/pred.jpg)
+   ![pred](result/pred.jpg)
 2. 在测试集中的正确率
-   ![](result/测试集.PNG)
+   ![测试](result/测试集.PNG)
 3. 混淆矩阵
-   ![](result/confusion.PNG)
+   ![confusion](result/confusion.PNG)
 4. 在视频文件中处理分割问题的速度
-   ![](result/fps.PNG)
+   ![FPS](result/fps.PNG)
